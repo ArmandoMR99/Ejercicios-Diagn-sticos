@@ -8,7 +8,7 @@ namespace Ejercicio_Loteria
             int numeroGanador = 4321; 
            
 
-            Console.WriteLine("Bienvenido al Sorteo Por 4.000.000 Millones");
+            Console.WriteLine("Bienvenido al Sorteo las Pachangas");
             Console.WriteLine();
             Console.WriteLine("Su Apuesta es de 1000$, Buena Suerte");
             Console.Write("Ingrese 4 Numeros: ");
@@ -17,7 +17,7 @@ namespace Ejercicio_Loteria
             Console.WriteLine();
             if (numeroGanador == numeroJugador) 
             {
-                Console.WriteLine("Felicidades ha Ganado 4.000.000 Millones de Pesos");
+                Console.WriteLine("Felicidades ha Ganado el Sorte de las Pachangas");
             }
             else
             {
