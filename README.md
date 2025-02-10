@@ -1,1 +1,1 @@
-# Ejercicios-Diagn-sticos
+# Ejercicios-Diagnosticos
