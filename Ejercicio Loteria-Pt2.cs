@@ -4,8 +4,7 @@ namespace Ejercicio_Loteria
     {
         static void Main()
         {
-            Console.WriteLine("====================================");
-            Console.WriteLine("  Bienvenido al Sorteo de la Lotería ");
+            Console.WriteLine("  Bienvenido al Sorteo de la Pachanga ");
             Console.WriteLine("====================================");
             Console.Write("Ingrese el monto de su apuesta: ");
             int apuesta = int.Parse(Console.ReadLine());
